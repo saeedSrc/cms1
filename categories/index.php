@@ -122,4 +122,19 @@ foreach ($result as $row)
 {
     $categories[] = array('id' => $row['id'], 'name' => $row['name']);
 }
+
+include_once $_SERVER['DOCUMENT_ROOT'] .
+    '/welcome/includes/magicquotes.inc.php';
+require_once $_SERVER['DOCUMENT_ROOT'] . '/welcome/includes/access.inc.php';
+if (!userIsLoggedIn())
+{
+    include '../login.html.php';
+    exit();
+}
+if (!userHasRole('Site Administrator'))
+{
+    $error = 'Only Site Administrators may access this page.';
+    include '../accessdenied.html.php';
+    exit();
+}
 include 'categories.html.php';

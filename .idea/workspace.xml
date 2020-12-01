@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af037e91-3dea-4ee4-9cc9-08252ef244a8" name="Default" comment="" />
+    <list default="true" id="af037e91-3dea-4ee4-9cc9-08252ef244a8" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/authors/authors.html.php" afterPath="$PROJECT_DIR$/authors/authors.html.php" />
+      <change beforePath="$PROJECT_DIR$/authors/form.html.php" afterPath="$PROJECT_DIR$/authors/form.html.php" />
+      <change beforePath="$PROJECT_DIR$/authors/index.php" afterPath="$PROJECT_DIR$/authors/index.php" />
+      <change beforePath="$PROJECT_DIR$/categories/categories.html.php" afterPath="$PROJECT_DIR$/categories/categories.html.php" />
+      <change beforePath="$PROJECT_DIR$/categories/index.php" afterPath="$PROJECT_DIR$/categories/index.php" />
+      <change beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change beforePath="$PROJECT_DIR$/jokes/form.html.php" afterPath="$PROJECT_DIR$/jokes/form.html.php" />
+      <change beforePath="$PROJECT_DIR$/jokes/index.php" afterPath="$PROJECT_DIR$/jokes/index.php" />
+      <change beforePath="$PROJECT_DIR$/jokes/jokes.html.php" afterPath="$PROJECT_DIR$/jokes/jokes.html.php" />
+      <change beforePath="$PROJECT_DIR$/jokes/searchform.html.php" afterPath="$PROJECT_DIR$/jokes/searchform.html.php" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,125 +26,39 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="searchform.html.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jokes/searchform.html.php">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/upload/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="27" column="73" lean-forward="false" selection-start-line="27" selection-start-column="73" selection-end-line="27" selection-end-column="73" />
-              <folding>
-                <element signature="e#0#5#0#PHP" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="helpers.inc.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/includes/helpers.inc.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="9" lean-forward="false" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+            <state relative-caret-position="72">
+              <caret line="4" column="69" lean-forward="true" selection-start-line="4" selection-start-column="69" selection-end-line="4" selection-end-column="69" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jokes/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="684">
-              <caret line="74" column="20" lean-forward="true" selection-start-line="74" selection-start-column="20" selection-end-line="74" selection-end-column="20" />
-              <folding>
-                <element signature="e#97#274#0#PHP" expanded="false" />
-                <element signature="e#159#274#0#PHP" expanded="false" />
-                <element signature="e#275#375#0#PHP" expanded="false" />
-                <element signature="e#376#570#0#PHP" expanded="false" />
-                <element signature="e#444#570#0#PHP" expanded="false" />
-                <element signature="e#571#674#0#PHP" expanded="false" />
-                <element signature="e#1133#1368#0#PHP" expanded="false" />
-                <element signature="e#1373#1557#0#PHP" expanded="false" />
-                <element signature="e#1694#1821#0#PHP" expanded="false" />
-                <element signature="e#1990#3064#0#PHP" expanded="false" />
-                <element signature="e#2252#2471#0#PHP" expanded="false" />
-                <element signature="e#2334#2471#0#PHP" expanded="false" />
-                <element signature="e#2476#2585#0#PHP" expanded="false" />
-                <element signature="e#2622#2846#0#PHP" expanded="false" />
-                <element signature="e#2706#2846#0#PHP" expanded="false" />
-                <element signature="e#2851#3021#0#PHP" expanded="false" />
-                <element signature="e#2907#3014#0#PHP" expanded="false" />
-                <element signature="e#3065#5087#0#PHP" expanded="false" />
-                <element signature="e#3203#3531#0#PHP" expanded="false" />
-                <element signature="e#3397#3531#0#PHP" expanded="false" />
-                <element signature="e#3760#3979#0#PHP" expanded="false" />
-                <element signature="e#3842#3979#0#PHP" expanded="false" />
-                <element signature="e#3984#4093#0#PHP" expanded="false" />
-                <element signature="e#4145#4479#0#PHP" expanded="false" />
-                <element signature="e#4330#4479#0#PHP" expanded="false" />
-                <element signature="e#4484#4568#0#PHP" expanded="false" />
-                <element signature="e#4609#4833#0#PHP" expanded="false" />
-                <element signature="e#4693#4833#0#PHP" expanded="false" />
-                <element signature="e#4838#5044#0#PHP" expanded="false" />
-                <element signature="e#4894#5037#0#PHP" expanded="false" />
-                <element signature="e#5088#6509#0#PHP" expanded="false" />
-                <element signature="e#5195#5385#0#PHP" expanded="false" />
-                <element signature="e#5390#5811#0#PHP" expanded="false" />
-                <element signature="e#5677#5811#0#PHP" expanded="false" />
-                <element signature="e#5852#6468#0#PHP" expanded="false" />
-                <element signature="e#5899#6462#0#PHP" expanded="false" />
-                <element signature="e#6057#6271#0#PHP" expanded="false" />
-                <element signature="e#6290#6462#0#PHP" expanded="false" />
-                <element signature="e#6510#8275#0#PHP" expanded="false" />
-                <element signature="e#6618#6808#0#PHP" expanded="false" />
-                <element signature="e#6813#7268#0#PHP" expanded="false" />
-                <element signature="e#7132#7268#0#PHP" expanded="false" />
-                <element signature="e#7273#7608#0#PHP" expanded="false" />
-                <element signature="e#7456#7608#0#PHP" expanded="false" />
-                <element signature="e#7613#8234#0#PHP" expanded="false" />
-                <element signature="e#7660#8228#0#PHP" expanded="false" />
-                <element signature="e#7818#8037#0#PHP" expanded="false" />
-                <element signature="e#8056#8228#0#PHP" expanded="false" />
-                <marker date="1604403495966" expanded="true" signature="126:153" ph="SELECT id, n... author" />
-                <marker date="1604403495966" expanded="true" signature="409:438" ph="SELECT id, n... category" />
-                <marker date="1604403495966" expanded="true" signature="2293:2320" ph="SELECT id, n... author" />
-                <marker date="1604403495966" expanded="true" signature="2663:2692" ph="SELECT id, n... category" />
-                <marker date="1604403495966" expanded="true" signature="3229:3283" ph="SELECT id, j... joke" />
-                <marker date="1604403495966" expanded="true" signature="3801:3828" ph="SELECT id, n... author" />
-                <marker date="1604403495966" expanded="true" signature="4171:4225" ph="SELECT categ... jokecategory" />
-                <marker date="1604403495966" expanded="true" signature="4650:4679" ph="SELECT id, n... category" />
-                <marker date="1604403495966" expanded="true" signature="5416:5501" ph="INSERT INTO joke... " />
-                <marker date="1604403495966" expanded="true" signature="5933:6004" ph="INSERT INTO jokecategory... " />
-                <marker date="1604403495966" expanded="true" signature="6839:6912" ph="UPDATE joke... " />
-                <marker date="1604403495966" expanded="true" signature="7299:7342" ph="DELETE FROM jokecategory... " />
-                <marker date="1604403495966" expanded="true" signature="7694:7765" ph="INSERT INTO jokecategory... " />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="form.html.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jokes/form.html.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="7" column="22" lean-forward="false" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-              <folding>
-                <element signature="n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="e#329#334#0#PHP" expanded="false" />
-                <element signature="e#379#384#0#PHP" expanded="false" />
-                <element signature="n#form#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#textarea#0;n#div#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="e#546#551#0#PHP" expanded="false" />
-                <element signature="n#div#2;n#form#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="e#1814#1819#0#PHP" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="jokes.html.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/jokes/jokes.html.php">
+      <file leaf-file-name="upload.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/upload/upload.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="18">
-              <caret line="1" column="6" lean-forward="false" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+              <caret line="1" column="34" lean-forward="false" selection-start-line="1" selection-start-column="34" selection-end-line="1" selection-end-column="34" />
+              <folding>
+                <element signature="e#258#542#0#PHP" expanded="false" />
+                <element signature="e#356#540#0#PHP" expanded="false" />
+                <element signature="e#467#540#0#PHP" expanded="false" />
+                <element signature="e#576#669#0#PHP" expanded="false" />
+                <element signature="e#690#801#0#PHP" expanded="false" />
+                <element signature="e#833#1034#0#PHP" expanded="false" />
+                <element signature="e#1134#1532#0#PHP" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="generate.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/recentjokes/generate.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="13" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -142,13 +68,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>getbotu</find>
-      <find>\</find>
-      <find>kipo</find>
-      <find>remove</find>
-      <find>addform</find>
-      <find>Manage</find>
-      <find>header</find>
       <find>authors</find>
       <find>magicquotes</find>
       <find>db.in</find>
@@ -156,7 +75,6 @@
       <find>new s</find>
       <find>searc</find>
       <find>add</find>
-      <find>DOCUMENT_ROOT</find>
       <find>edi</find>
       <find>edit</find>
       <find>Error fetching list of selected categories.</find>
@@ -172,14 +90,24 @@
       <find>$jokes</find>
       <find>satisfying</find>
       <find>vars</find>
+      <find>userIsLoggedIn</find>
+      <find>databaseContainsAuthor</find>
+      <find>re</find>
+      <find>DOCUMENT_ROOT</find>
+      <find>role</find>
+      <find>form.</find>
+      <find>type y</find>
+      <find>File is an image</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/jokes.html.php" />
         <option value="$PROJECT_DIR$/vendor/longman/telegram-bot/src/Telegram.php" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/youtubetuterial.php" />
         <option value="$PROJECT_DIR$/yuotubetut.php" />
         <option value="$PROJECT_DIR$/sgetUpdatesCLI.php" />
@@ -192,15 +120,33 @@
         <option value="$PROJECT_DIR$/simple-bot-telegram.php" />
         <option value="$PROJECT_DIR$/vendor/telegram-bot/api/src/BotApi.php" />
         <option value="$PROJECT_DIR$/alikalantari.php" />
+        <option value="$PROJECT_DIR$/categories/form.html.php" />
+        <option value="$PROJECT_DIR$/shoppingcart/catalog.html.php" />
+        <option value="$PROJECT_DIR$/shoppingcart/cart.html.php" />
+        <option value="$PROJECT_DIR$/shoppingcart/index.php" />
+        <option value="$PROJECT_DIR$/categories/index.php" />
+        <option value="$PROJECT_DIR$/accessdenied.php" />
+        <option value="$PROJECT_DIR$/accessdenied.html.php" />
+        <option value="$PROJECT_DIR$/logout.inc.html.php" />
+        <option value="$PROJECT_DIR$/categories/categories.html.php" />
+        <option value="$PROJECT_DIR$/jokes/jokes.html.php" />
+        <option value="$PROJECT_DIR$/jokes/searchform.html.php" />
+        <option value="$PROJECT_DIR$/access.inc.php" />
+        <option value="$PROJECT_DIR$/includes/access.inc.php" />
+        <option value="$PROJECT_DIR$/login.html.php" />
         <option value="$PROJECT_DIR$/authors/form.html.php" />
         <option value="$PROJECT_DIR$/authors/index.php" />
-        <option value="$PROJECT_DIR$/categories/categories.html.php" />
-        <option value="$PROJECT_DIR$/categories/form.html.php" />
-        <option value="$PROJECT_DIR$/categories/index.php" />
+        <option value="$PROJECT_DIR$/authors/authors.html.php" />
+        <option value="$PROJECT_DIR$/joke_list/index.php" />
+        <option value="$PROJECT_DIR$/joke_list/joke_list.html.php" />
         <option value="$PROJECT_DIR$/jokes/form.html.php" />
-        <option value="$PROJECT_DIR$/jokes/searchform.html.php" />
         <option value="$PROJECT_DIR$/jokes/index.php" />
-        <option value="$PROJECT_DIR$/jokes/jokes.html.php" />
+        <option value="$PROJECT_DIR$/recentjokes/jokes.html.php" />
+        <option value="$PROJECT_DIR$/recentjokes/controller.php" />
+        <option value="$PROJECT_DIR$/recentjokes/generate.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/upload/index.php" />
+        <option value="$PROJECT_DIR$/upload/upload.php" />
       </list>
     </option>
   </component>
@@ -225,11 +171,10 @@
     </include_path>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="448" />
-    <option name="y" value="120" />
-    <option name="width" value="1268" />
-    <option name="height" value="569" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -245,6 +190,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -255,22 +201,24 @@
             <path>
               <item name="welcome" type="b2602c69:ProjectViewProjectNode" />
               <item name="welcome" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="jokes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="upload" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/projects/qok-server" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/includes" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/jokes" />
       <recent name="$PROJECT_DIR$/categories" />
@@ -317,27 +265,34 @@
       <workItem from="1569749001741" duration="1978000" />
       <workItem from="1604071535375" duration="6265000" />
       <workItem from="1604394809295" duration="8789000" />
+      <workItem from="1604483846070" duration="4278000" />
+      <workItem from="1604759955883" duration="1211000" />
+      <workItem from="1604829346964" duration="5904000" />
+      <workItem from="1604905307730" duration="8564000" />
+      <workItem from="1605530829504" duration="599000" />
+      <workItem from="1605941282232" duration="1198000" />
+      <workItem from="1606384929755" duration="14597000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="83224000" />
+    <option name="totallyTimeSpent" value="119575000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="448" y="120" width="1920" height="1053" extended-state="6" />
+    <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27214515" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2945571" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -358,28 +313,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/simple-bot-telegram.php" />
-    <entry file="file://$PROJECT_DIR$/index.php" />
-    <entry file="file://$PROJECT_DIR$/jokes.html.php" />
-    <entry file="file://$PROJECT_DIR$/form.html.php" />
-    <entry file="file://$PROJECT_DIR$/error.html.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output.php" />
-    <entry file="file://$PROJECT_DIR$/index.php" />
-    <entry file="file://$PROJECT_DIR$/output.php" />
-    <entry file="file://$PROJECT_DIR$/index.php" />
-    <entry file="file://$PROJECT_DIR$/output.php" />
-    <entry file="file://$PROJECT_DIR$/index.php" />
-    <entry file="file://$PROJECT_DIR$/output.php" />
-    <entry file="file://$PROJECT_DIR$/index.php" />
-    <entry file="file://$PROJECT_DIR$/output.php" />
-    <entry file="file://$PROJECT_DIR$/jokes.html.php" />
-    <entry file="file://$PROJECT_DIR$/form.html.php" />
     <entry file="file://$PROJECT_DIR$/sgetUpdatesCLI.php" />
     <entry file="file://$PROJECT_DIR$/yuotubetut.php" />
     <entry file="file://$PROJECT_DIR$/youtubetuterial.php" />
@@ -415,13 +348,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/vendor/telegram-bot/api/src/BaseType.php" />
     <entry file="file://$PROJECT_DIR$/alikalantari.php" />
-    <entry file="file://$PROJECT_DIR$/1q">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/error.html.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -433,7 +359,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -441,32 +366,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/authors/form.html.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="29" lean-forward="false" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/authors/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3060">
-          <caret line="170" column="2" lean-forward="false" selection-start-line="170" selection-start-column="2" selection-end-line="170" selection-end-column="2" />
-          <folding>
-            <marker date="1604088640238" expanded="true" signature="126:153" ph="SELECT id, n... author" />
-            <marker date="1604088640238" expanded="true" signature="486:526" ph="SELECT id FR... joke" />
-            <marker date="1604088640238" expanded="true" signature="822:865" ph="DELETE FROM jokecategory... " />
-            <marker date="1604088640238" expanded="true" signature="1234:1271" ph="DELETE FROM joke... " />
-            <marker date="1604088640238" expanded="true" signature="1535:1568" ph="DELETE FROM author... " />
-            <marker date="1604088640238" expanded="true" signature="2201:2252" ph="INSERT INTO author... " />
-            <marker date="1604088640238" expanded="true" signature="2679:2728" ph="SELECT id, n... author" />
-            <marker date="1604088640238" expanded="true" signature="3221:3282" ph="UPDATE author... " />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -474,22 +373,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/categories/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-379">
-          <caret line="1" column="41" lean-forward="false" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
-          <folding>
-            <marker date="1604089892574" expanded="true" signature="402:439" ph="INSERT INTO category... " />
-            <marker date="1604089892574" expanded="true" signature="894:938" ph="SELECT id, n... category" />
-            <marker date="1604089892574" expanded="true" signature="1461:1508" ph="UPDATE category... " />
-            <marker date="1604089892574" expanded="true" signature="1993:2040" ph="DELETE FROM jokecategory... " />
-            <marker date="1604089892574" expanded="true" signature="2353:2388" ph="DELETE FROM category... " />
-            <marker date="1604089892574" expanded="true" signature="2732:2761" ph="SELECT id, n... category" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -497,15 +380,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/categories/categories.html.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="42" lean-forward="false" selection-start-line="0" selection-start-column="29" selection-end-line="0" selection-end-column="42" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -513,33 +387,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
           <caret line="1" column="13" lean-forward="false" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/authors/authors.html.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="34" lean-forward="false" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jokes/searchform.html.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="27" column="73" lean-forward="false" selection-start-line="27" selection-start-column="73" selection-end-line="27" selection-end-column="73" />
-          <folding>
-            <element signature="e#0#5#0#PHP" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -547,103 +394,252 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="5" column="9" lean-forward="false" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shoppingcart/catalog.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="6" lean-forward="false" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shoppingcart/cart.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="19" column="10" lean-forward="false" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shoppingcart/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/categories/categories.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="27" column="46" lean-forward="false" selection-start-line="27" selection-start-column="46" selection-end-line="27" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jokes/searchform.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="42" column="42" lean-forward="false" selection-start-line="42" selection-start-column="42" selection-end-line="42" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/categories/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2286">
+          <caret line="127" column="61" lean-forward="false" selection-start-line="127" selection-start-column="61" selection-end-line="127" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/access.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1008">
+          <caret line="77" column="9" lean-forward="false" selection-start-line="77" selection-start-column="9" selection-end-line="77" selection-end-column="9" />
+          <folding>
+            <element signature="e#680#993#0#PHP" expanded="false" />
+            <element signature="e#1004#1277#0#PHP" expanded="false" />
+            <element signature="e#2023#2061#0#PHP" expanded="false" />
+            <marker date="1604853205058" expanded="true" signature="1576:1649" ph="SELECT COUNT... author" />
+            <marker date="1604853205058" expanded="true" signature="2146:2298" ph="SELECT COUNT... author" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logout.inc.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="7" lean-forward="false" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authors/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="42" column="18" lean-forward="false" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authors/form.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="10" column="31" lean-forward="false" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/joke_list.php" />
+    <entry file="file://$PROJECT_DIR$/joke_list/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="67" lean-forward="false" selection-start-line="16" selection-start-column="59" selection-end-line="16" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authors/authors.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="40" lean-forward="false" selection-start-line="0" selection-start-column="40" selection-end-line="0" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jokes/jokes.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="11" lean-forward="false" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accessdenied.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="31" lean-forward="false" selection-start-line="1" selection-start-column="31" selection-end-line="1" selection-end-column="31" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/jokes/form.html.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="22" lean-forward="false" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        <state relative-caret-position="630">
+          <caret line="52" column="56" lean-forward="false" selection-start-line="52" selection-start-column="56" selection-end-line="52" selection-end-column="56" />
           <folding>
-            <element signature="n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#0#5#0#PHP" expanded="false" />
+            <element signature="e#149#154#0#PHP" expanded="false" />
             <element signature="e#329#334#0#PHP" expanded="false" />
             <element signature="e#379#384#0#PHP" expanded="false" />
-            <element signature="n#form#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#textarea#0;n#div#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#546#551#0#PHP" expanded="false" />
-            <element signature="n#div#2;n#form#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#1814#1819#0#PHP" expanded="false" />
+            <element signature="e#769#1087#0#PHP" expanded="false" />
+            <element signature="e#834#839#0#PHP" expanded="false" />
+            <element signature="e#867#872#0#PHP" expanded="false" />
+            <element signature="e#889#994#0#PHP" expanded="false" />
+            <element signature="e#1014#1019#0#PHP" expanded="false" />
+            <element signature="e#1186#1738#0#PHP" expanded="false" />
+            <element signature="e#1262#1267#0#PHP" expanded="false" />
+            <element signature="e#1396#1401#0#PHP" expanded="false" />
+            <element signature="e#1466#1471#0#PHP" expanded="false" />
+            <element signature="e#1501#1506#0#PHP" expanded="false" />
+            <element signature="e#1527#1638#0#PHP" expanded="false" />
+            <element signature="e#1662#1667#0#PHP" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/joke_list/joke_list.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="15" lean-forward="false" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/jokes/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="74" column="20" lean-forward="true" selection-start-line="74" selection-start-column="20" selection-end-line="74" selection-end-column="20" />
+        <state relative-caret-position="206">
+          <caret line="322" column="0" lean-forward="false" selection-start-line="322" selection-start-column="0" selection-end-line="322" selection-end-column="0" />
           <folding>
-            <element signature="e#97#274#0#PHP" expanded="false" />
-            <element signature="e#159#274#0#PHP" expanded="false" />
-            <element signature="e#275#375#0#PHP" expanded="false" />
-            <element signature="e#376#570#0#PHP" expanded="false" />
-            <element signature="e#444#570#0#PHP" expanded="false" />
-            <element signature="e#571#674#0#PHP" expanded="false" />
-            <element signature="e#1133#1368#0#PHP" expanded="false" />
-            <element signature="e#1373#1557#0#PHP" expanded="false" />
-            <element signature="e#1694#1821#0#PHP" expanded="false" />
-            <element signature="e#1990#3064#0#PHP" expanded="false" />
-            <element signature="e#2252#2471#0#PHP" expanded="false" />
-            <element signature="e#2334#2471#0#PHP" expanded="false" />
-            <element signature="e#2476#2585#0#PHP" expanded="false" />
-            <element signature="e#2622#2846#0#PHP" expanded="false" />
-            <element signature="e#2706#2846#0#PHP" expanded="false" />
-            <element signature="e#2851#3021#0#PHP" expanded="false" />
-            <element signature="e#2907#3014#0#PHP" expanded="false" />
-            <element signature="e#3065#5087#0#PHP" expanded="false" />
-            <element signature="e#3203#3531#0#PHP" expanded="false" />
-            <element signature="e#3397#3531#0#PHP" expanded="false" />
-            <element signature="e#3760#3979#0#PHP" expanded="false" />
-            <element signature="e#3842#3979#0#PHP" expanded="false" />
-            <element signature="e#3984#4093#0#PHP" expanded="false" />
-            <element signature="e#4145#4479#0#PHP" expanded="false" />
-            <element signature="e#4330#4479#0#PHP" expanded="false" />
-            <element signature="e#4484#4568#0#PHP" expanded="false" />
-            <element signature="e#4609#4833#0#PHP" expanded="false" />
-            <element signature="e#4693#4833#0#PHP" expanded="false" />
-            <element signature="e#4838#5044#0#PHP" expanded="false" />
-            <element signature="e#4894#5037#0#PHP" expanded="false" />
-            <element signature="e#5088#6509#0#PHP" expanded="false" />
-            <element signature="e#5195#5385#0#PHP" expanded="false" />
-            <element signature="e#5390#5811#0#PHP" expanded="false" />
-            <element signature="e#5677#5811#0#PHP" expanded="false" />
-            <element signature="e#5852#6468#0#PHP" expanded="false" />
-            <element signature="e#5899#6462#0#PHP" expanded="false" />
-            <element signature="e#6057#6271#0#PHP" expanded="false" />
-            <element signature="e#6290#6462#0#PHP" expanded="false" />
-            <element signature="e#6510#8275#0#PHP" expanded="false" />
-            <element signature="e#6618#6808#0#PHP" expanded="false" />
-            <element signature="e#6813#7268#0#PHP" expanded="false" />
-            <element signature="e#7132#7268#0#PHP" expanded="false" />
-            <element signature="e#7273#7608#0#PHP" expanded="false" />
-            <element signature="e#7456#7608#0#PHP" expanded="false" />
-            <element signature="e#7613#8234#0#PHP" expanded="false" />
-            <element signature="e#7660#8228#0#PHP" expanded="false" />
-            <element signature="e#7818#8037#0#PHP" expanded="false" />
-            <element signature="e#8056#8228#0#PHP" expanded="false" />
-            <marker date="1604403495966" expanded="true" signature="126:153" ph="SELECT id, n... author" />
-            <marker date="1604403495966" expanded="true" signature="409:438" ph="SELECT id, n... category" />
-            <marker date="1604403495966" expanded="true" signature="2293:2320" ph="SELECT id, n... author" />
-            <marker date="1604403495966" expanded="true" signature="2663:2692" ph="SELECT id, n... category" />
-            <marker date="1604403495966" expanded="true" signature="3229:3283" ph="SELECT id, j... joke" />
-            <marker date="1604403495966" expanded="true" signature="3801:3828" ph="SELECT id, n... author" />
-            <marker date="1604403495966" expanded="true" signature="4171:4225" ph="SELECT categ... jokecategory" />
-            <marker date="1604403495966" expanded="true" signature="4650:4679" ph="SELECT id, n... category" />
-            <marker date="1604403495966" expanded="true" signature="5416:5501" ph="INSERT INTO joke... " />
-            <marker date="1604403495966" expanded="true" signature="5933:6004" ph="INSERT INTO jokecategory... " />
-            <marker date="1604403495966" expanded="true" signature="6839:6912" ph="UPDATE joke... " />
-            <marker date="1604403495966" expanded="true" signature="7299:7342" ph="DELETE FROM jokecategory... " />
-            <marker date="1604403495966" expanded="true" signature="7694:7765" ph="INSERT INTO jokecategory... " />
+            <marker date="1605187322251" expanded="false" signature="126:153" ph="SELECT id, n... author" />
+            <marker date="1605187322251" expanded="true" signature="409:438" ph="SELECT id, n... category" />
+            <marker date="1605187322251" expanded="true" signature="2293:2320" ph="SELECT id, n... author" />
+            <marker date="1605187322251" expanded="true" signature="2663:2692" ph="SELECT id, n... category" />
+            <marker date="1605187322251" expanded="true" signature="3229:3283" ph="SELECT id, j... joke" />
+            <marker date="1605187322251" expanded="true" signature="3826:3853" ph="SELECT id, n... author" />
+            <marker date="1605187322251" expanded="true" signature="4196:4250" ph="SELECT categ... jokecategory" />
+            <marker date="1605187322251" expanded="true" signature="4675:4704" ph="SELECT id, n... category" />
+            <marker date="1605187322251" expanded="true" signature="5441:5526" ph="INSERT INTO joke... " />
+            <marker date="1605187322251" expanded="true" signature="5958:6029" ph="INSERT INTO jokecategory... " />
+            <marker date="1605187322251" expanded="true" signature="6864:6937" ph="UPDATE joke... " />
+            <marker date="1605187322251" expanded="true" signature="7324:7367" ph="DELETE FROM jokecategory... " />
+            <marker date="1605187322251" expanded="true" signature="7719:7790" ph="INSERT INTO jokecategory... " />
+            <marker date="1605187322251" expanded="true" signature="8333:8384" ph="UPDATE joke... " />
+            <marker date="1605187322251" expanded="true" signature="8370:8384" ph="INSERT INTO jokecategory... " />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jokes/jokes.html.php">
+    <entry file="file://$PROJECT_DIR$/recentjokes/controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="12" lean-forward="false" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+          <folding>
+            <marker date="1606406070104" expanded="true" signature="97:157" ph="SELECT id, j... joke" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_defines.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="555" column="9" lean-forward="false" selection-start-line="555" selection-start-column="9" selection-end-line="555" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1q">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="33" lean-forward="false" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recentjokes/jokes.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="18" lean-forward="false" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/upload/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="69" lean-forward="true" selection-start-line="4" selection-start-column="69" selection-end-line="4" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recentjokes/generate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="13" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/upload/upload.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
-          <caret line="1" column="6" lean-forward="false" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
-          <folding />
+          <caret line="1" column="34" lean-forward="false" selection-start-line="1" selection-start-column="34" selection-end-line="1" selection-end-column="34" />
+          <folding>
+            <element signature="e#258#542#0#PHP" expanded="false" />
+            <element signature="e#356#540#0#PHP" expanded="false" />
+            <element signature="e#467#540#0#PHP" expanded="false" />
+            <element signature="e#576#669#0#PHP" expanded="false" />
+            <element signature="e#690#801#0#PHP" expanded="false" />
+            <element signature="e#833#1034#0#PHP" expanded="false" />
+            <element signature="e#1134#1532#0#PHP" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

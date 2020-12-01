@@ -46,6 +46,13 @@
                     ?>><?php htmlout($category['name']); ?></label></div>
         <?php endforeach; ?>
     </fieldset>
+
+    <fieldset>
+        <?php if($makeVisible) : ?>
+        <legend>Accept</legend>
+        <input type="checkbox" id = "check" name = "check">Visible</input>
+        <?php endif; ?>
+    </fieldset>
     <div>
         <input type="hidden" name="id" value="<?php
         htmlout($id); ?>">

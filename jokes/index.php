@@ -144,6 +144,7 @@ if (isset($_POST['action']) and $_POST['action'] == 'Edit')
     $authorid = $row['authorid'];
     $id = $row['id'];
     $button = 'Update joke';
+    $makeVisible = true;
 // Build the list of authors
     try
     {
@@ -314,7 +315,40 @@ categoryid = :categoryid';
             exit();
         }
     }
+
+    if (isset($_POST['check']))
+    {
+        try {
+            $sql = 'UPDATE joke Set visible = "YES" WHERE 
+id = :jokeid';
+            $s = $pdo->prepare($sql);
+            $s->bindValue(':jokeid', $_POST['id']);
+            $s->execute();
+
+        }
+        catch (PDOException $e)
+        {
+            $error = $e;
+            include 'error.html.php';
+            exit();
+        }
+    }
     header('Location: .');
+    exit();
+}
+
+include_once $_SERVER['DOCUMENT_ROOT'] .
+    '/welcome/includes/magicquotes.inc.php';
+require_once $_SERVER['DOCUMENT_ROOT'] . '/welcome/includes/access.inc.php';
+if (!userIsLoggedIn())
+{
+    include '../login.html.php';
+    exit();
+}
+if (!userHasRole('Content Editor'))
+{
+    $error = 'Only Content Editors may access this page.';
+    include '../accessdenied.html.php';
     exit();
 }
 include 'searchform.html.php';
